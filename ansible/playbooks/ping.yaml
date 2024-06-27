@@ -1,0 +1,7 @@
+---
+- name: Primer play
+  hosts: all
+  
+  tasks:
+  - name: Hacer ping
+    ansible.builtin.ping:
