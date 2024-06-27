@@ -1,0 +1,3 @@
+[submodule "eamartin-intel_learning"]
+	path = eamartin-intel_learning
+	url = git@github.com:intel-sandbox/eamartin-intel_learning.git
