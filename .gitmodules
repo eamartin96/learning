@@ -1,3 +1,6 @@
 [submodule "eamartin-intel_learning"]
 	path = eamartin-intel_learning
 	url = git@github.com:intel-sandbox/eamartin-intel_learning.git
+[submodule "roadmap-retos-programacion"]
+	path = roadmap-retos-programacion
+	url = git@github.com:eamartin96/roadmap-retos-programacion.git
